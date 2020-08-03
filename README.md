@@ -1,5 +1,5 @@
 # pycalc
-This is the third script made by me
+This is the third script made by me. This is a Calculator with colorful python power. Hope You Like It
 Please support Guys.
 
 
